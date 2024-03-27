@@ -12,12 +12,10 @@
 - 💡 I'm happy to present some of the projects I've worked on; please take a look at them below.
 
 
-
-
  ## TripleTen (ex. Practicum) bootcamp projects
 | № | Project   | Topic   |Description                                                    | Tools |
 |---|----------|--------|------------------------------------------------------------|-------------|
-|1  |[Borrower reliability analysis](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Projects/blob/main/1.Preprocessing.ipynb)|Data Preprocessing|💳🔍🛡️ Analyzing factors affecting loan repayment based on customer solvency statistics to assess borrower reliability and mitigate loan default risks.|python, pandas, sidetable, seaborn, nltk|
+|1  |[Borrower reliability analysis](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Projects/blob/main/1.%20Data%20Preprocessing.ipynb)|Data Preprocessing|💳🔍🛡️ Analyzing factors affecting loan repayment based on customer solvency statistics to assess borrower reliability and mitigate loan default risks.|python, pandas, sidetable, seaborn, nltk|
 |2  |[Research of advertisements for selling cars](https://github.com/Susan-Calvin/Vehicles-price-factors/blob/main/2_Vehicles_Price_Factors.ipynb)|Exploratory Data Analysis|Analysis of the factors that determine the vehicles market based on ads |python, pandas, matplotlib, datetime, numpy, seaborn|
 |3  |[Telecom operator plans analysis](https://github.com/Susan-Calvin/Telecom-operator-plans-analysis/blob/main/3_Telecom_operator_plans_analysis.ipynb)|Statistical Data Analysis|Analysis of the behavior of customers using different telecom plans |python, pandas, numpy, math, functools, seaborn, random, scipy, matplotlib, datetime|
 |4  |[Games Platforms Success Prediction](https://github.com/Susan-Calvin/Games-Platforms-Success-Prediction/blob/main/4_Games_Platforms_Success_Prediction.ipynb)|Final project of the first module|Analysis of data from online store on sales of games platforms around the world to identify a potentially popular games |python, pandas, scipy, matplotlib, seaborn, sidetable, regular expressions, math, sqaurify, functools|
