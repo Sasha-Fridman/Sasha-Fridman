@@ -29,18 +29,6 @@
 |9  |[Automation with Tableau](https://github.com/Susan-Calvin/Automation-with-Tableau)|Data pipelines and Automation|Building adashboard and a presentation about trending videos on YouTube |Tableau, Canva|
 |10  |[Customers churn prediction](https://github.com/Susan-Calvin/Forecasts-and-Predictions/blob/main/9_ML_Forecasts%20and%20Predictions.ipynb)|Machine Learning: Forecasts and Predictions|Clustering customers and building predictive churn models using ML algorythm implementations|python, pandas, sklearn, scipy, matplotlib, seaborn|
 
-| № | Project | Topic | Description | Tools |
-|---|---------|-------|-------------|-------|
-| 1 | **1-st module** | | | |
-|  | Borrower Reliability Analysis | Data Preprocessing | 💳🔍🛡️ Analyzing factors affecting loan repayment based on customer solvency statistics to assess borrower reliability and mitigate loan default risks. | python, pandas, sidetable, seaborn, nltk |
-|  | Research of advertisements for selling cars | Exploratory Data Analysis | Analysis of the factors that determine the vehicles market based on ads | python, pandas, matplotlib, datetime, numpy, seaborn |
-|  | Telecom operator plans analysis | Statistical Data Analysis | Analysis of the behavior of customers using different telecom plans | python, pandas, numpy, math, functools, seaborn, random, scipy, matplotlib, datetime |
-| 2 | **2-nd module** | | | |
-| ... | | | | |
-
-
-
-
 <!--
 **Sasha-Fridman/Sasha-Fridman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
