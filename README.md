@@ -5,7 +5,7 @@
 - 💼 My background primarily focuses on data and business analytical roles, providing key support in decision-making for C-level management. Additionally, I have experience in process optimization, product ownership, and entrepreneurship.
 - 📊 Currently, I'm mastering my hard data analytics skills (mostly Python and SQL) and working on a couple of interesting projects.
 - 💖 Harvesting insights from raw data and crafting narratives through data visualization are where my true passions lie.
-- 👨‍👩‍👧‍👦 In my private life, I enjoy spending time with my amazing spouse, daughter, and friends, woodworking, playing tennis, and learning new languages (currently it's Hebrew).
+- 👨‍👩‍👧‍👦 In my personal life, I enjoy spending time with my amazing spouse, daughter, and friends. I have a passion for woodworking, playing tennis, and learning new languages (currently Hebrew). Additionally, I find fulfillment in volunteering, as it provides not only the opportunity to do good but also to collaborate with some of the most amazing people.
 - 💬 Feel free to reach out to me for pro bono consulting and volunteer opportunities, especially in analytical and process optimization areas.
 - ✋ I value feedback and thrive on meaningful discussions. Don't hesitate to share your thoughts or ideas — I'm all ears!
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/sasha-fridman/), [Facebook](https://www.facebook.com/alexander.fridman.1) or shoot me an email at sasha.fridman.me@gmail.com.
