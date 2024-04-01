@@ -10,14 +10,15 @@
 - ✋ I value feedback and thrive on meaningful discussions. Don't hesitate to share your thoughts or ideas — I'm all ears!
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/sasha-fridman/), [Facebook](https://www.facebook.com/alexander.fridman.1) or shoot me an email at sasha.fridman.me@gmail.com.
 - 💡 I'm happy to present some of the projects I've worked on; please take a look at them below.
+  
+</br> 
 
-
- ## TripleTen (ex. Practicum) Bootcamp Projects
+## TripleTen (ex. Practicum) Bootcamp Projects
 |№|Project|Topic|Description|Tools|
 |---|----------|--------|------------------------------------------------------------|-------------|
 ||***1-st module***||||
 |1  |[Borrower Reliability Analysis](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Projects/blob/main/1.%20Data%20Preprocessing.ipynb)|Data Preprocessing|💳🔍🛡️ Analyzing factors affecting loan repayment based on customer solvency statistics to assess borrower reliability and mitigate loan default risks.|python, pandas, sidetable, seaborn, nltk|
-|2  |[Research of advertisements for selling cars]()|Exploratory Data Analysis|Analysis of the factors that determine the vehicles market based on ads |python, pandas, matplotlib, datetime, numpy, seaborn|
+|2  |[Price Trend Insights: Unveiling Factors Driving Vehicle Costs]()|Exploratory Data Analysis|Analysis of the factors that determine the vehicles market based on ads |python, pandas, matplotlib, datetime, numpy, seaborn|
 |3  |[Telecom operator plans analysis]()|Statistical Data Analysis|Analysis of the behavior of customers using different telecom plans |python, pandas, numpy, math, functools, seaborn, random, scipy, matplotlib, datetime|
 |4  |[Games Platforms Success Prediction]()|Final project of the first module|Analysis of data from online store on sales of games platforms around the world to identify a potentially popular games |python, pandas, scipy, matplotlib, seaborn, sidetable, regular expressions, math, sqaurify, functools|
 ||***2-nd module***||||
@@ -30,6 +31,9 @@
 |10  |[Customers churn prediction]()|Machine Learning: Forecasts and Predictions|Clustering customers and building predictive churn models using ML algorythm implementations|python, pandas, sklearn, scipy, matplotlib, seaborn|
 
 <!--
+
+&nbsp or </br>;  - for brakes
+
 **Sasha-Fridman/Sasha-Fridman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
