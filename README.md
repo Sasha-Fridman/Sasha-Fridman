@@ -9,13 +9,13 @@
 - 💬 Feel free to reach out to me for pro bono consulting and volunteer opportunities, especially in analytical and process optimization areas.
 - ✋ I value feedback and thrive on meaningful discussions. Don't hesitate to share your thoughts or ideas — I'm all ears!
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/sasha-fridman/), [Facebook](https://www.facebook.com/alexander.fridman.1) or shoot me an email at sasha.fridman.me@gmail.com.
-- 💡 I'm happy to present some of the projects I've worked on; please take a look at them below.
-  
+- 💡 I'm happy to present some of the projects I've worked on; please take a look at them below.  
+
 </br> 
 
 ## TripleTen (ex. Practicum) Bootcamp Projects
 |№|Project|Topic|Description|Tools|
-|---|----------|--------|------------------------------------------------------------|-------------|
+|---:|:----------|:--------|:------------------------------------------------------------|:-------------|
 ||***1-st module***||||
 |1  |[Borrower Reliability Analysis](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Projects/blob/main/1.%20Data%20Preprocessing.ipynb)|Data Preprocessing|💳🔍🛡️ Analyzing factors affecting loan repayment based on customer solvency statistics to assess borrower reliability and mitigate loan default risks.|python, pandas, numpy, sidetable, seaborn, nltk|
 |2  |[Price Trend Insights: Unveiling Factors Driving Vehicle Costs]()|Exploratory Data Analysis|Ad-based analysis of the factors affecting the vehicles market |python, pandas, numpy, sidetable, matplotlib,  seaborn|
@@ -29,6 +29,9 @@
 ||***3-rd module***|||
 |9  |[Automation with Tableau]()|Data pipelines and Automation|Building adashboard and a presentation about trending videos on YouTube |Tableau, Canva|
 |10  |[Customers churn prediction]()|Machine Learning: Forecasts and Predictions|Clustering customers and building predictive churn models using ML algorythm implementations|python, pandas, sklearn, scipy, matplotlib, seaborn|
+
+
+[**Certification of Сompletion**]() 
 
 <!--
 
