@@ -17,8 +17,8 @@
 |№|Project|Topic|Description|Tools|
 |---:|:----------|:--------|:------------------------------------------------------------|:-------------|
 ||***1-st module***||||
-|1  |[Borrower Reliability Analysis](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Projects/blob/main/1.%20Data%20Preprocessing.ipynb)|Data Preprocessing|💳🛡️ Analyzing factors affecting loan repayment based on customer solvency statistics to assess borrower reliability and mitigate loan default risks|python, pandas, numpy, sidetable, seaborn, nltk|
-|2  |[Vehicle Price Insights: Uncovering Key Factors]()|Exploratory Data Analysis|📰🚗 Ad-based analysis of the factors affecting the vehicles market |python, pandas, numpy, sidetable, matplotlib,  seaborn|
+|1  |[Borrower Reliability Analysis](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/1.%20Borrower%20Reliability%20Analysis/1.%20Data%20Preprocessing.ipynb)|Data Preprocessing|💳🛡️ Analyzing factors affecting loan repayment based on customer solvency statistics to assess borrower reliability and mitigate loan default risks|python, pandas, numpy, sidetable, seaborn, nltk|
+|2  |[Vehicle Price Insights: Uncovering Key Factors](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/2.%20Vehicle%20Price%20Insights/2.%20Exploratory%20Data%20Analysis%20(EDA).ipynb)|Exploratory Data Analysis|📰🚗 Ad-based analysis of the factors affecting the vehicles market |python, pandas, numpy, sidetable, matplotlib,  seaborn|
 |3  |[Telecom operator plans analysis]()|Statistical Data Analysis|Analysis of the behavior of customers using different telecom plans |python, pandas, numpy, math, functools, seaborn, random, scipy, matplotlib, datetime|
 |4  |[Games Platforms Success Prediction]()|Final project of the first module|Analysis of data from online store on sales of games platforms around the world to identify a potentially popular games |python, pandas, scipy, matplotlib, seaborn, sidetable, regular expressions, math, sqaurify, functools|
 ||***2-nd module***||||
