@@ -1,6 +1,6 @@
 ![Data-Opinion](https://github.com/Sasha-Fridman/Sasha-Fridman/blob/main/Data-Opinion.gif)
 
-# 👋 Greetings and thank you for visiting my GitHub account! I'm Sasha Fridman, a passionate data and business analyst.
+# 👋 Greetings and thank you for visiting my GitHub account! I'm Sasha Fridman, a passionate Data and Business Analyst.
 
 - 💼 My background primarily focuses on data and business analytical roles, providing key support in decision-making for C-level management. Additionally, I have experience in process optimization, product ownership, and entrepreneurship.
 - 📊 Currently, I'm mastering my hard data analytics skills (mostly Python and SQL) and working on a couple of interesting projects.
