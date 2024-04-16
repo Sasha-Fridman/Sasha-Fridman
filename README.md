@@ -13,7 +13,7 @@
 
 </br> 
 
-## [TripleTen (ex. Practicum) Bootcamp](https://tripleten.co.il/en/data-analyst/) Projects
+## [TripleTen (ex. Practicum) Bootcamp](https://practicum-content.s3.us-west-1.amazonaws.com/tripleten_isr/Syllabus.pdf) Projects
 |№|Project|Topic|Description|Tools|
 |---:|:----------|:--------|:------------------------------------------------------------|:-------------|
 ||***1-st Module***||||
