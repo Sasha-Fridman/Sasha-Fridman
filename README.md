@@ -24,10 +24,10 @@
 ||***2-nd Module***||||
 |5  |[Event Marketplace Marketing Optimization by Analyzing User Activity](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/5.%20Event%20Marketplace%20Marketing%20Optimization%20by%20Analyzing%20User%20Activity/5.%20Business%20Analysis.ipynb)|Business Analysis | 📆💸 Optimizing marketing expenses for the event and ticket marketplace by analyzing user behavior, purchase patterns, and revenue generation. This study includes an examination of cohorts and metrics such as ROI, LTV, MAU, WAU, and DAU to gain valuable insights |python, pandas, numpy, sidetable, matplotlib, seaborn, plotly express|
 |6  |[Implementing Hypotheses and A/B Tests to Increase Revenue](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/6.%20Implementing%20Hypotheses%20and%20AB%20Tests%20to%20Increase%20Revenue/6.%20Making%20Decisions%20Based%20on%20Data.ipynb)|Making Business Decisions Based on Data|🛒🧪 Boosting online store revenue through hypothesis prioritization using ICE and RICE frameworks, A/B tests implementation and analysis |python, pandas, numpy, math, scipy, matplotlib, seaborn, datetime, plotly express|
-|7  |[Robotic Café Investment Study and Presentation](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/7.%20Robotic%20Café%20Investment%20Study%20and%20Presentation/7.%20How%20to%20Tell%20a%20Story%20Using%20Data.ipynb)|Data-driven Storytelling|🤖🍕 Analyzing open-source data on Los Angeles restaurants to secure investor interest in a robotic café venture by demonstrating sustainability beyond novelty *(includes the study and its [presentation](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/7.%20Robotic%20Café%20Investment%20Study%20and%20Presentation/Robotic%20Café%20in%20LA.pdf))*|python, pandas, numpy, matplotlib, seaborn, plotly express, regular expressions, usaddress, Canva|
+|7  |[Robotic Café Investment Study and Presentation](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/7.%20Robotic%20Café%20Investment%20Study%20and%20Presentation/7.%20How%20to%20Tell%20a%20Story%20Using%20Data.ipynb)|Data-driven Storytelling|🤖🍕 Analyzing open-source data on Los Angeles restaurants to secure investor interest in a robotic café venture by demonstrating sustainability beyond novelty *(includes the study and its presentation)*|python, pandas, numpy, matplotlib, seaborn, plotly express, regular expressions, usaddress, Canva|
 |8  |[App Engagement Analysis & Font Performance Test]()|Final Project of the 2nd Module| 👥🔄 Analyzing user behavior in the food product app, investigating the sales funnel and conducting an A/A/B test to evaluate font performance|python, pandas, numpy, matplotlib, seaborn, plotly express, statsmodels|
 ||***3-rd Module***|||
-|9  |[Creating Dashboards to Display YouTube Trending Videos]()|Automation and Tableau|📺📈 Analyzing trending-video history on YouTube for the advertising agency, to determine what content deserves marketing attention *(includes Tableau dashboards and presentation of the project)*|Tableau, Canva|
+|9  |[Creating Dashboards to Display YouTube Trending Videos](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/edit/main/9.%20Creating%20Dashboards%20to%20Display%20YouTube%20Trending%20Videos/README.md)|Automation and Tableau|📺📈 Analyzing trending-video history on YouTube for the advertising agency, to determine what content deserves marketing attention *(includes Tableau dashboard and presentation of the project)*|Tableau, Canva|](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/9.%20Creating%20Dashboards%20to%20Display%20YouTube%20Trending%20Videos/Trending%20Video%20Presentation%20by%20Sasha%20Fridman.pdf)
 <!--
 |10  |[Customers churn prediction]()|Machine Learning: Forecasts and Predictions|Clustering customers and building predictive churn models using ML algorythm implementations|python, pandas, sklearn, scipy, matplotlib, seaborn|
 
@@ -43,6 +43,8 @@
 https://practicum-content.s3.us-west-1.amazonaws.com/tripleten_isr/Syllabus.pdf
 
 &nbsp or </br>;  - for brakes
+[presentation](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/7.%20Robotic%20Café%20Investment%20Study%20and%20Presentation/Robotic%20Café%20in%20LA.pdf
+
 
 **Sasha-Fridman/Sasha-Fridman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -103,5 +105,8 @@ portfolio example AVS1508
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
+
+
+
 
 -->
