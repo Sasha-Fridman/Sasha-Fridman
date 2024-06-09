@@ -28,7 +28,7 @@
 |8  |[App Engagement Analysis & Font Performance Test]()|Final Project of the 2nd Module|🧑‍💻 Analyzing user behavior in the food product app, investigating the sales funnel and conducting an A/A/B test to evaluate font performance|python, pandas, numpy, matplotlib, seaborn, plotly, statsmodels|
 ||***3-rd Module***|||
 |9  |[Creating Dashboards to Display YouTube Trending Videos](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/tree/main/9.%20Creating%20Dashboards%20to%20Display%20YouTube%20Trending%20Videos)|Automation and Tableau|📺📈 Analyzing trending-video history on YouTube for the advertising agency, to determine what content deserves marketing attention *(includes Tableau dashboard and presentation of the project)*|Tableau, Canva|](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/9.%20Creating%20Dashboards%20to%20Display%20YouTube%20Trending%20Videos/Trending%20Video%20Presentation%20by%20Sasha%20Fridman.pdf)
-|10  |[Prediction of Customers Churn]()|Machine Learning|👫🔄 Identifying churn factors and developing a customer retention strategy for a fitness & gym chain using clustering and predictive churn models with ML algorithm implementations.|python, pandas, sidetable, sklearn, scipy, matplotlib, plotly, seaborn|
+|10  |[Prediction of Customers Churn]()|Machine Learning|👫🔄 Identifying churn factors and developing a customer retention strategy for a fitness & gym chain using clustering and predictive churn models with ML algorithm implementations |python, pandas, sidetable, matplotlib, plotly, seaborn, sklearn, scipyn|
 
 <!--
 
