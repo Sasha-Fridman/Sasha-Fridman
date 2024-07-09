@@ -31,6 +31,9 @@
 |10  |[Prediction of Customers Churn](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/10.%20Prediction%20of%20Customers%20Churn/10.%20Forecasts%20and%20Prediction%20Project.ipynb)|Machine Learning|👫🔄 Identifying churn factors and developing a customer retention strategy for a fitness & gym chain using clustering and predictive churn models with ML algorithm implementations |python, pandas, sidetable, matplotlib, plotly, seaborn, sklearn, scipyn|
 ||***Graduation Projects***||||
 |11  |[SQL Book Analytics](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/11.%20SQL%20Book%20Analytics/11.%20Final%20SQL%20Project.ipynb)|Database Analysis| 📚📊 Analyzing a book database for insights on publishing trends, user engagement, and market opportunities during COVID-19. The project queries recent publications, review metrics, top publishers, highly-rated authors, and user behavior.|SQL, Python, pandas, SQLAlchemy, psycopg2|
+12|[Final A/B Testing Project](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/12.%20Final%20AB%20Testing%20Project/12.%20Final%20Project%20AB.ipynb)|Data Analysis and Statistical Testing|🔍🧪 Evaluating an improved recommendation system's impact on user behavior for an international online store through A/B testing. Involves assessing test correctness and analyzing results.|python, pandas, numpy, datetime, seaborn, matplotlib, plotly, statsmodels|
+
+You can replace 📊 with any of the other suggested emojis if you prefer a different representation.
 
 <!--
 
