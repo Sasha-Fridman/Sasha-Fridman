@@ -3,14 +3,16 @@
 # 👋 Greetings and thank you for visiting my GitHub account! I'm Sasha Fridman, a passionate Data and Business Analyst.
 
 - 💼 My background primarily focuses on roles in data and business analytics, providing key support in decision-making for C-level management. Additionally, I have gained experience in process optimization, product ownership, and entrepreneurship.
-- 📊 Currently, I'm mastering my hard data analytics skills (mostly Python and SQL) and working on a couple of interesting projects.
+- 📊 I'm currently deepening my data analytics expertise (primarily in Python and SQL) while working on a couple of interesting projects.
 - 💖 Harvesting insights from raw data and crafting narratives through data visualization are where my true passions lie.
 - 👨‍👩‍👧‍👦 In my personal life, I enjoy spending time with my amazing spouse, daughter, and friends. I have a passion for woodworking, playing tennis, and learning new languages (currently Hebrew). Additionally, I find fulfillment in volunteering, as it provides not only the opportunity to do good, but also to collaborate with some of the most amazing people.
 - 💬 Feel free to reach out to me for pro bono consulting and volunteer opportunities, especially in analytical and process optimization areas.
 - ✋ I value feedback and thrive on meaningful discussions. Don't hesitate to share your thoughts or ideas — I'm all ears!
-- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/sasha-fridman/), [Facebook](https://www.facebook.com/alexander.fridman.1) or shoot me an email at sasha.fridman.me@gmail.com.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/sasha-fridman/), [Facebook](https://www.facebook.com/alexander.fridman.1) or by email at sasha.fridman.me@gmail.com.
 - 💡 I'm happy to present some of the projects I've worked on; please take a look at them below.  
 
+  *I'd love for you to explore my final E-Commerce project — it’s the most comprehensive one I've completed so far!*
+  
 </br> 
 
 ## [TripleTen (ex. Practicum) Bootcamp](https://practicum-content.s3.us-west-1.amazonaws.com/tripleten_isr/Syllabus.pdf) Projects
@@ -31,7 +33,8 @@
 |10  |[Prediction of Customers Churn](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/10.%20Prediction%20of%20Customers%20Churn/10.%20Forecasts%20and%20Prediction%20Project.ipynb)|Machine Learning|👫🔄 Identifying churn factors and developing a customer retention strategy for a fitness & gym chain using clustering and predictive churn models with ML algorithm implementations. |Python, pandas, sidetable, matplotlib, plotly, seaborn, sklearn, scipyn|
 ||***Graduation Projects***||||
 |11  |[SQL Book Analytics](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/11.%20SQL%20Book%20Analytics/11.%20Final%20SQL%20Project.ipynb)|Database Analysis| 📚📊 Analyzing a book database for insights on publishing trends, user engagement, and market opportunities during COVID-19. The project queries recent publications, review metrics, top publishers, highly-rated authors, and user behavior.|SQL, Python, pandas, SQLAlchemy, psycopg2|
-|12| E-Commerce Performance: Growth, Inventory & Customer Profiles | Comprehensive Business Analysis|🛍️💡 In-depth analysis of an online store's performance, combining trend analysis, ABC-XYZ classification, returns evaluation, new product impact, and hypothesis testing. Focused on identifying key sales drivers, resolving data issues, and delivering actionable insights for product, marketing, pricing, and inventory strategies. | Python, pandas, numpy, scipy, sidetable, datetime, calendar, re, nltk, matplotlib, seaborn, plotly|
+|12|[Final A/B Testing Project](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/12.%20Final%20AB%20Testing%20Project/12.%20Final%20Project%20AB.ipynb)|Data Analysis and Statistical Testing|🧐🧪 Evaluating an improved recommendation system's impact on user behavior for an international online store through A/B testing. Involves assessing test correctness and analyzing results.|python, pandas, sidetable, numpy, datetime, seaborn, matplotlib, plotly, statsmodels|
+|13⭐| E-Commerce Performance: Growth, Inventory & Customer Profiles | Comprehensive Business Analysis|🛍️💡 In-depth analysis of an online store's performance, combining trend analysis, ABC-XYZ classification, returns evaluation, new product impact, and hypothesis testing. Focused on identifying key sales drivers, resolving data issues, and delivering actionable insights for product, marketing, pricing, and inventory strategies. | Python, pandas, numpy, scipy, sidetable, datetime, calendar, re, nltk, matplotlib, seaborn, plotly|
 
 
 <!--
