@@ -11,7 +11,7 @@
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/sasha-fridman/), [Facebook](https://www.facebook.com/alexander.fridman.1) or by email at sasha.fridman.me@gmail.com.
 - 💡 I'm happy to present some of the projects I've worked on; please take a look at them below.  
 
-  *I'd love for you to explore my [⭐ E-Commerce project](https://sasha-fridman.github.io/TripleTen-ex.-Practicum-Bootcamp-Projects/13.%20Final%20Project%20E-Commerce/index.html) — it’s the most comprehensive one I've completed so far!*
+  *I'd love for you to explore my **[⭐ E-Commerce project](https://sasha-fridman.github.io/TripleTen-ex.-Practicum-Bootcamp-Projects/13.%20Final%20Project%20E-Commerce/index.html)** — it’s the most comprehensive one I've completed so far!*
   
 </br> 
 
