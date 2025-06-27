@@ -20,6 +20,7 @@
 |№|Project|Topic|Description|Tools|
 |---:|:----------|:--------|:------------------------------------------------------------|:-------------|
 |1  |[Warsaw Public Transport Analysis for Pizza Brand Expansion](https://sasha-fridman.github.io/Freelance-and-Personal-Projects/Warsaw%20Transport%20Flows/Warsaw_Transport_Flows_Analysis_by_Sasha_Fridman.html#busiest-stops-based-on-weighted-capacity)|Geospatial & Transport Data Analysis|📍🚌 Analyzing public transport schedules, stop locations, and vehicle capacities to identify Warsaw’s busiest transit hubs for optimal store placement.|Python, pandas, numpy, gtfs_kit, geopy, folium, plotly, matplotlib, seaborn|
+
 ***Data Privacy Disclaimer:** All projects showcased use publicly available datasets, anonymized information, or data specifically authorized for portfolio demonstration purposes. No confidential information has been disclosed.
 
 ## [TripleTen (ex. Practicum) Bootcamp](https://practicum-content.s3.us-west-1.amazonaws.com/tripleten_isr/Syllabus.pdf) Projects
