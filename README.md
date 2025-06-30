@@ -3,7 +3,7 @@
 # 👋 Greetings and thank you for visiting my GitHub account! I'm Sasha Fridman, a passionate Data and Business Analyst.
 
 - 💼 I specialize in data and business analytics, strategy, and operational excellence, supporting C-level decision-making. 
-- 📊 I'm currently deepening my data analytics expertise (primarily in Python and SQL) while working on a couple of interesting projects.
+- 📊 I'm currently deepening my data analytics expertise (primarily in Python, SQL and Tableau) while working on a couple of interesting projects.
 - 💖 Harvesting insights from raw data and crafting narratives through data visualization are where my true passions lie.
 - 👨‍👩‍👧‍👦 In my personal life, I enjoy spending time with my amazing spouse, daughter, and friends. I have a passion for woodworking, playing tennis, and learning new languages (currently Hebrew). Additionally, I find fulfillment in volunteering, as it provides not only the opportunity to do good, but also to collaborate with some of the most amazing people.
 - 💬 Feel free to reach out to me for pro bono consulting and volunteer opportunities, especially in analytical and process optimization areas.
