@@ -9,9 +9,10 @@
 - 💬 Feel free to reach out to me for pro bono consulting and volunteer opportunities, especially in analytical and process optimization areas.
 - ✋ I value feedback and thrive on meaningful discussions. Don't hesitate to share your thoughts or ideas — I'm all ears!
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/sasha-fridman/), [Facebook](https://www.facebook.com/alexander.fridman.1) or by email at sasha.fridman.me@gmail.com.
-- 💡 I'm happy to present some of the projects I've worked on; please take a look at them below.  
+- 💡 I'm happy to present some of the projects I've worked on; please take a look at them below.
+  
 
-  *I'd love for you to explore my **[⭐ E-Commerce project](https://sasha-fridman.github.io/TripleTen-ex.-Practicum-Bootcamp-Projects/13.%20Final%20Project%20E-Commerce/index.html)** — it’s the most comprehensive one I've completed so far!*
+ ***I'd love for you to explore my [⭐ E-Commerce project](https://sasha-fridman.github.io/TripleTen-ex.-Practicum-Bootcamp-Projects/13.%20Final%20Project%20E-Commerce/index.html) — it’s the most comprehensive one I've completed so far!***
   
 </br> 
 
@@ -42,7 +43,7 @@
 ||***Graduation Projects***||||
 |11  |[SQL Book Analytics](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/11.%20SQL%20Book%20Analytics/11.%20Final%20SQL%20Project.ipynb)|Database Analysis| 📚📊 Analyzing a book database for insights on publishing trends, user engagement, and market opportunities during COVID-19. The project queries recent publications, review metrics, top publishers, highly-rated authors, and user behavior.|SQL, Python, pandas, SQLAlchemy, psycopg2|
 |12|[Final A/B Testing Project](https://github.com/Sasha-Fridman/TripleTen-ex.-Practicum-Bootcamp-Projects/blob/main/12.%20Final%20AB%20Testing%20Project/12.%20Final%20Project%20AB.ipynb)|Data Analysis and Statistical Testing|🧐🧪 Evaluating an improved recommendation system's impact on user behavior for an international online store through A/B testing. Involves assessing test correctness and analyzing results.|python, pandas, sidetable, numpy, datetime, seaborn, matplotlib, plotly, statsmodels|
-|13⭐| [Final Project, E-Commerce: Product Range Analysis](https://sasha-fridman.github.io/TripleTen-ex.-Practicum-Bootcamp-Projects/13.%20Final%20Project%20E-Commerce/index.html) | Comprehensive Business Analysis|🛍️💡 In-depth analysis of an online store's performance, combining trend analysis, ABC-XYZ classification, returns evaluation, new product impact, and hypothesis testing. Focused on identifying key sales drivers, resolving data issues, and delivering actionable insights for product, marketing, pricing, and inventory strategies *(includes a Tableau dashboard and presentation of the project)*. | Python, pandas, numpy, scipy, sidetable, datetime, calendar, re, nltk, matplotlib, seaborn, plotly, Tableau|
+|13⭐| **[Final Project, E-Commerce: Product Range Analysis](https://sasha-fridman.github.io/TripleTen-ex.-Practicum-Bootcamp-Projects/13.%20Final%20Project%20E-Commerce/index.html)**| Comprehensive Business Analysis|🛍️💡 In-depth analysis of an online store's performance, combining trend analysis, ABC-XYZ classification, returns evaluation, new product impact, and hypothesis testing. Focused on identifying key sales drivers, resolving data issues, and delivering actionable insights for product, marketing, pricing, and inventory strategies *(includes a Tableau dashboard and presentation of the project)*. | Python, pandas, numpy, scipy, sidetable, datetime, calendar, re, nltk, matplotlib, seaborn, plotly, Tableau|
 
 
 <!--
@@ -62,16 +63,7 @@ https://practicum-content.s3.us-west-1.amazonaws.com/tripleten_isr/Syllabus.pdf
 
 **Sasha-Fridman/Sasha-Fridman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 portfolio example AVS1508
 ### 🛠 &nbsp;Tech Stack
